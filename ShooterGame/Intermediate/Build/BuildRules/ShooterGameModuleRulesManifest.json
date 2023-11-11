@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"Z:\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
+		"Z:\\ShooterGame\\Source\\ShooterGame.Target.cs",
+		"Z:\\ShooterGame\\Source\\ShooterGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
