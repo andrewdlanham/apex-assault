@@ -77,15 +77,15 @@ void EmptyLinkFunctionForGeneratedCodeShooterGameGameModeBase() {}
 	AShooterGameGameModeBase::AShooterGameGameModeBase(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AShooterGameGameModeBase);
 	AShooterGameGameModeBase::~AShooterGameGameModeBase() {}
-	struct Z_CompiledInDeferFile_FID_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_Statics
+	struct Z_CompiledInDeferFile_FID_shooter_game_prototype_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_shooter_game_prototype_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_AShooterGameGameModeBase, AShooterGameGameModeBase::StaticClass, TEXT("AShooterGameGameModeBase"), &Z_Registration_Info_UClass_AShooterGameGameModeBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterGameGameModeBase), 1879780078U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_1061485813(TEXT("/Script/ShooterGame"),
-		Z_CompiledInDeferFile_FID_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_shooter_game_prototype_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_1061485813(TEXT("/Script/ShooterGame"),
+		Z_CompiledInDeferFile_FID_shooter_game_prototype_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_shooter_game_prototype_ShooterGame_Source_ShooterGame_ShooterGameGameModeBase_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,41 +1,41 @@
 [
 	{
-		"file": "Z:\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\ShooterGame\\Source\\ShooterGame\\ShooterGame.cpp",
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\ShooterGame.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\ShooterGame\\Source\\ShooterGame\\ShooterGame.h",
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\ShooterGame.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\ShooterGame\\Source\\ShooterGame\\ShooterGameGameModeBase.cpp",
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\ShooterGameGameModeBase.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\ShooterGame\\Source\\ShooterGame\\ShooterGameGameModeBase.h",
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\ShooterGameGameModeBase.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.261.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	}

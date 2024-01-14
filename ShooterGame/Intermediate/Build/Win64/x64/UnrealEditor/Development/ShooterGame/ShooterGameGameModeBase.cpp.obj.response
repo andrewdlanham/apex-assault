@@ -1,18 +1,16 @@
-Z:\ShooterGame\Source\ShooterGame\ShooterGameGameModeBase.cpp
+Z:\shooter-game-prototype\ShooterGame\Source\ShooterGame\ShooterGameGameModeBase.cpp
 /I .
-/I Z:\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Inc\ShooterGame\UHT
-/I Z:\ShooterGame\Source
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I Runtime
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
-/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
+/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
@@ -274,6 +272,8 @@ Z:\ShooterGame\Source\ShooterGame\ShooterGameGameModeBase.cpp
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
+/I Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Inc\ShooterGame\UHT
+/I Z:\shooter-game-prototype\ShooterGame\Source
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -283,12 +283,12 @@ Z:\ShooterGame\Source\ShooterGame\ShooterGameGameModeBase.cpp
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"Z:\ShooterGame\Intermediate\Build\Win64\x64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"Z:\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\Definitions.ShooterGame.h"
-/Yu"Z:\ShooterGame\Intermediate\Build\Win64\x64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"Z:\ShooterGame\Intermediate\Build\Win64\x64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"Z:\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\ShooterGameGameModeBase.cpp.obj"
-/sourceDependencies Z:\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\ShooterGameGameModeBase.cpp.dep.json
+/FI"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\Definitions.ShooterGame.h"
+/Yu"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\ShooterGameGameModeBase.cpp.obj"
+/sourceDependencies Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\ShooterGameGameModeBase.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
