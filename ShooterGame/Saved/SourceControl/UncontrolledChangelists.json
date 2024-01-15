@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/shooter-game-prototype/ShooterGame/Content/BP_ShooterCharacter.uasset",
+				"Z:/shooter-game-prototype/ShooterGame/Content/Map2.umap",
+				"Z:/shooter-game-prototype/ShooterGame/Content/Sandbox.umap",
+				"Z:/shooter-game-prototype/ShooterGame/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.umap",
+				"Z:/shooter-game-prototype/ShooterGame/Content/BP_ShooterGameMode.uasset"
+			]
+		}
+	]
+}

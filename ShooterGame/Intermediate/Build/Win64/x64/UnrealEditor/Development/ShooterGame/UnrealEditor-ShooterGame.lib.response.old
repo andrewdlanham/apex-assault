@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShooterGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\ShooterGame.init.gen.cpp.obj"
+"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\ShooterGameGameModeBase.gen.cpp.obj"
+"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\ShooterGame.cpp.obj"
+"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\ShooterGameGameModeBase.cpp.obj"
+"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\Default.rc2.res"
+/OUT:"Z:\shooter-game-prototype\ShooterGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterGame\UnrealEditor-ShooterGame.lib"
