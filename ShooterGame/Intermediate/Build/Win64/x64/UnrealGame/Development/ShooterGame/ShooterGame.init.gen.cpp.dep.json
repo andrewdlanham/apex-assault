@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\unrealgame\\inc\\shootergame\\uht\\shootergame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\x64\\shootergame\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\x64\\unrealgame\\development\\shootergame\\definitions.shootergame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
