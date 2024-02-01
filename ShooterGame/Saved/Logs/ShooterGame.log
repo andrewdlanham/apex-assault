@@ -2610,3 +2610,448 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.01-01.29.26:028][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.66 sec)
 [2024.02.01-01.29.26:039][218]AssetCheck: New page: Asset Save: BS_Locomotion
 [2024.02.01-01.29.26:039][218]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/BS_Locomotion.BS_Locomotion
+[2024.02.01-01.51.49:922][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:923][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:924][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:924][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:924][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:925][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:925][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:925][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:926][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:926][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:926][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:927][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.49:930][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:687][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:687][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:688][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:688][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:688][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:689][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:689][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:689][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:690][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:690][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:691][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.50:691][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:875][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:876][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:876][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:876][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:877][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:877][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:877][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:878][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:878][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:878][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:879][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.51:879][149]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-01.51.54:547][287]Running Z:/UE_5.2/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="Z:/shooter-game-prototype/ShooterGame/ShooterGame.uproject" -game -rocket -progress
+[2024.02.01-01.51.54:667][287]Using bundled DotNet SDK version: 6.0.302
+[2024.02.01-01.51.54:667][287]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="Z:/shooter-game-prototype/ShooterGame/ShooterGame.uproject" -game -rocket -progress
+[2024.02.01-01.51.57:080][287]Log file: C:\Users\andrewdlanham\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.02.01-01.51.57:685][287]
+[2024.02.01-01.51.57:685][287]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2024.02.01-01.51.57:685][287]See the log file for detailed information
+[2024.02.01-01.51.57:685][287]
+[2024.02.01-01.51.57:685][287]
+[2024.02.01-01.51.57:685][287]Generating VisualStudioCode project files:
+[2024.02.01-01.51.57:685][287]Discovering modules, targets and source code for project...
+[2024.02.01-01.52.02:916][287]Binding IntelliSense data...
+[2024.02.01-01.52.15:495][287]Binding IntelliSense data... 50%
+[2024.02.01-01.52.15:496][287]Binding IntelliSense data... 100%
+[2024.02.01-01.52.15:496][287]Writing project files...
+[2024.02.01-01.52.18:110][287]Writing project files... 100%
+[2024.02.01-01.52.26:929][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-01.52.26:984][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_ShooterCharacter" FILE="../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset" SILENT=true
+[2024.02.01-01.52.26:991][783]LogSavePackage: Moving output files for package: /Game/ABP_ShooterCharacter
+[2024.02.01-01.52.26:991][783]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/ABP_ShooterCharacterB9EA40284F468F9C0F935C86B6D59C25.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset'
+[2024.02.01-01.52.26:997][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.73 sec)
+[2024.02.01-01.52.27:009][783]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2024.02.01-01.52.27:009][783]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2024.02.01-01.52.37:610][993]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_CC_Combat.Idle_AO_CC_Combat
+[2024.02.01-01.52.37:612][993]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_CC_Combat.Idle_AO_CC_Combat
+[2024.02.01-01.52.37:612][993]LogAnimationCompression: Display: Storing compressed animation data for /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_CC_Combat.Idle_AO_CC_Combat, at AnimationSequence/c55550a6d57544b73ad5bcf35b00f8d20560c044
+[2024.02.01-01.52.37:659][993]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-01.52.37:659][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-01.52.40:802][234]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-01.52.40:802][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-01.52.40:812][234]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-01.52.40:812][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-01.52.40:863][234]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-01.52.40:863][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-01.52.40:889][234]LogViewport: Scene viewport resized to 476x418, mode Windowed.
+[2024.02.01-01.52.40:923][235]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2024.02.01-01.52.46:347][834]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.BlendSpace
+[2024.02.01-01.59.47:531][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-01.59.47:595][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_ShooterCharacter" FILE="../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset" SILENT=true
+[2024.02.01-01.59.47:603][976]LogSavePackage: Moving output files for package: /Game/ABP_ShooterCharacter
+[2024.02.01-01.59.47:604][976]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/ABP_ShooterCharacter82C5DAEC4F565EB4627ACC9FD6CB2B6F.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset'
+[2024.02.01-01.59.47:610][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.80 sec)
+[2024.02.01-01.59.47:620][976]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2024.02.01-01.59.47:620][976]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2024.02.01-01.59.48:141][ 32]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2024.02.01-01.59.48:207][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.02.01-02.00.34:080][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-02.00.34:113][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_ShooterCharacter" FILE="../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset" SILENT=true
+[2024.02.01-02.00.34:118][ 74]LogSavePackage: Moving output files for package: /Game/ABP_ShooterCharacter
+[2024.02.01-02.00.34:119][ 74]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/ABP_ShooterCharacter02F754A14ACB410703DA449265DA9802.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset'
+[2024.02.01-02.00.34:124][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 2.85 sec)
+[2024.02.01-02.00.34:132][ 74]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2024.02.01-02.00.34:132][ 74]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2024.02.01-02.00.39:920][347]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2024.02.01-02.00.39:963][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.02.01-02.00.57:838][ 12]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2024.02.01-02.00.57:881][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.02.01-02.01.03:678][641]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2024.02.01-02.01.03:723][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.02.01-02.01.16:655][957]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2024.02.01-02.01.16:696][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.02.01-02.01.36:092][165]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BS_Locomotion.BS_Locomotion
+[2024.02.01-02.01.36:092][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-02.01.36:092][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-02.01.36:104][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.01-02.01.36:242][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-02.01.36:242][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-02.01.36:356][165]LogViewport: Scene viewport resized to 1024x554, mode Windowed.
+[2024.02.01-02.01.36:388][165]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.02.01-02.01.56:364][851]LogDerivedDataCache: C:/Users/andrewdlanham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.150 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7598 files in 9056 folders with total size 777 MiB.
+[2024.02.01-02.02.07:727][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-02.02.07:787][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BS_Locomotion" FILE="../../../../shooter-game-prototype/ShooterGame/Content/BS_Locomotion.uasset" SILENT=true
+[2024.02.01-02.02.07:792][857]LogSavePackage: Moving output files for package: /Game/BS_Locomotion
+[2024.02.01-02.02.07:792][857]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BS_LocomotionC5150282435C6C855378F1823B777DD8.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/BS_Locomotion.uasset'
+[2024.02.01-02.02.07:799][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.92 sec)
+[2024.02.01-02.02.07:808][857]AssetCheck: New page: Asset Save: BS_Locomotion
+[2024.02.01-02.02.07:808][857]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/BS_Locomotion.BS_Locomotion
+[2024.02.01-02.02.10:423][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-02.02.10:469][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_ShooterCharacter" FILE="../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset" SILENT=true
+[2024.02.01-02.02.10:477][122]LogSavePackage: Moving output files for package: /Game/ABP_ShooterCharacter
+[2024.02.01-02.02.10:477][122]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/ABP_ShooterCharacter777726AE441CFAAB204036B2E4DF9DAE.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset'
+[2024.02.01-02.02.10:482][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 2.98 sec)
+[2024.02.01-02.02.10:490][122]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2024.02.01-02.02.10:490][122]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2024.02.01-02.07.05:632][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.02.01-02.07.05:635][297]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sandbox' took 0.033
+[2024.02.01-02.07.05:635][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ABP_ShooterCharacter] ([2] browsable assets)...
+[2024.02.01-02.07.05:635][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_ShooterCharacter]
+[2024.02.01-02.07.05:635][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_ShooterCharacter" FILE="../../../../shooter-game-prototype/ShooterGame/Saved/Autosaves/Game/ABP_ShooterCharacter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.01-02.07.05:642][297]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ABP_ShooterCharacter_Auto4
+[2024.02.01-02.07.05:642][297]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/ABP_ShooterCharacter_Auto477256AE54C7218F5036F85B64AF6A62D.tmp' to '../../../../shooter-game-prototype/ShooterGame/Saved/Autosaves/Game/ABP_ShooterCharacter_Auto4.uasset'
+[2024.02.01-02.07.05:643][297]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.02.01-02.07.31:299][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-02.07.31:356][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ShooterCharacter" FILE="../../../../shooter-game-prototype/ShooterGame/Content/BP_ShooterCharacter.uasset" SILENT=true
+[2024.02.01-02.07.31:360][852]LogSavePackage: Moving output files for package: /Game/BP_ShooterCharacter
+[2024.02.01-02.07.31:360][852]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BP_ShooterCharacterAA661D24401E57547A541BBBE5C7D5D2.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/BP_ShooterCharacter.uasset'
+[2024.02.01-02.07.31:367][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.05 sec)
+[2024.02.01-02.07.31:376][852]AssetCheck: New page: Asset Save: BP_ShooterCharacter
+[2024.02.01-02.07.31:376][852]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_ShooterCharacter.BP_ShooterCharacter
+[2024.02.01-02.07.38:038][ 18]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.01-02.07.38:047][ 18]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.01-02.07.38:048][ 18]LogPlayLevel: [PlayLevel] Compiling BP_ShooterCharacter before play...
+[2024.02.01-02.07.38:129][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.02.01-02.07.38:131][ 18]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2024.02.01-02.07.38:131][ 18]PIE: New page: PIE session: Sandbox (Jan 31, 2024, 4:07:38 PM)
+[2024.02.01-02.07.38:131][ 18]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.01-02.07.38:504][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.372685s)
+[2024.02.01-02.07.38:504][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.372740s)
+[2024.02.01-02.07.38:504][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-02.07.38:504][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-02.07.38:505][ 18]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.01-02.07.38:506][ 18]LogPlayLevel: PIE: World Init took: (0.002224s)
+[2024.02.01-02.07.38:534][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.02.01-02.07.38:535][ 18]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.01-02.07.38:535][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.01-02.07.38:535][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.01-02.07.38:535][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.01-02.07.38:535][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.01-02.07.38:535][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.01-02.07.38:535][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.01-02.07.38:535][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.01-02.07.38:536][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.01-02.07.38:536][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.01-02.07.38:536][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.01-02.07.38:536][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.01-02.07.38:539][ 18]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.01-02.07.38:588][ 18]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.01-02.07.38:589][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.01-02.07.38:589][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.01-02.07.38:589][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.01-02.07.38:589][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.01-02.07.38:589][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.01-02.07.38:591][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.01-02.07.38:591][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.01-02.07.38:591][ 18]LogInit: FAudioDevice initialized with ID 11.
+[2024.02.01-02.07.38:591][ 18]LogAudio: Display: Audio Device (ID: 11) registered with world 'Sandbox'.
+[2024.02.01-02.07.38:591][ 18]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.01-02.07.38:604][ 18]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.01-02.07.38:715][ 18]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.01.31-21.07.38
+[2024.02.01-02.07.38:738][ 18]LogWorld: Bringing up level for play took: 0.135166
+[2024.02.01-02.07.38:741][ 18]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.02.01-02.07.38:748][ 18]PIE: Server logged in
+[2024.02.01-02.07.38:748][ 18]PIE: Play in editor total start time 0.702 seconds.
+[2024.02.01-02.07.38:943][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:944][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:944][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:945][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:945][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:945][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:946][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:946][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:946][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:947][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:947][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:948][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.38:949][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:182][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-02.07.45:182][651]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.01-02.07.45:184][651]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-02.07.45:194][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-02.07.45:201][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.01-02.07.45:209][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-02.07.45:244][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.01-02.07.45:248][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.01-02.07.45:248][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.01-02.07.45:252][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.01-02.07.45:258][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-02.07.45:277][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.01-02.07.45:337][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:337][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:337][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:338][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:338][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:338][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:339][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:339][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:339][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:340][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:340][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:340][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:342][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.07.45:370][652]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.02.01-02.10.32:225][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-02.10.32:268][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_ShooterCharacter" FILE="../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset" SILENT=true
+[2024.02.01-02.10.32:278][ 81]LogSavePackage: Moving output files for package: /Game/ABP_ShooterCharacter
+[2024.02.01-02.10.32:279][ 81]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/ABP_ShooterCharacterADD2F68447435C5BEE013680F2C78796.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset'
+[2024.02.01-02.10.32:284][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 3.10 sec)
+[2024.02.01-02.10.32:294][ 81]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2024.02.01-02.10.32:294][ 81]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2024.02.01-02.10.35:423][357]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.01-02.10.35:430][357]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.01-02.10.35:431][357]LogPlayLevel: [PlayLevel] Compiling ABP_ShooterCharacter before play...
+[2024.02.01-02.10.35:484][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.02.01-02.10.35:486][357]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2024.02.01-02.10.35:486][357]PIE: New page: PIE session: Sandbox (Jan 31, 2024, 4:10:35 PM)
+[2024.02.01-02.10.35:486][357]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.01-02.10.35:856][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.370335s)
+[2024.02.01-02.10.35:856][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.370373s)
+[2024.02.01-02.10.35:856][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-02.10.35:856][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-02.10.35:857][357]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.01-02.10.35:858][357]LogPlayLevel: PIE: World Init took: (0.002181s)
+[2024.02.01-02.10.35:887][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.01-02.10.35:888][357]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.01-02.10.35:888][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.01-02.10.35:888][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.01-02.10.35:888][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.01-02.10.35:888][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.01-02.10.35:888][357]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.01-02.10.35:888][357]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.01-02.10.35:888][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.01-02.10.35:888][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.01-02.10.35:889][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.01-02.10.35:889][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.01-02.10.35:889][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.01-02.10.35:891][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.01-02.10.35:943][357]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.01-02.10.35:943][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.01-02.10.35:943][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.01-02.10.35:943][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.01-02.10.35:945][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.01-02.10.35:945][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.01-02.10.35:946][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.01-02.10.35:946][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.01-02.10.35:946][357]LogInit: FAudioDevice initialized with ID 12.
+[2024.02.01-02.10.35:946][357]LogAudio: Display: Audio Device (ID: 12) registered with world 'Sandbox'.
+[2024.02.01-02.10.35:946][357]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.01-02.10.35:950][357]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.01-02.10.36:058][357]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.01.31-21.10.36
+[2024.02.01-02.10.36:083][357]LogWorld: Bringing up level for play took: 0.131912
+[2024.02.01-02.10.36:085][357]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.02.01-02.10.36:090][357]PIE: Server logged in
+[2024.02.01-02.10.36:091][357]PIE: Play in editor total start time 0.661 seconds.
+[2024.02.01-02.10.36:271][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:272][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:273][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:274][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:274][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:275][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:275][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:276][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:276][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:277][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:277][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:278][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.36:279][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:382][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-02.10.38:382][565]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.01-02.10.38:385][565]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-02.10.38:406][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-02.10.38:416][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.01-02.10.38:426][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-02.10.38:467][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.01-02.10.38:468][565]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.01-02.10.38:468][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.01-02.10.38:470][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.01-02.10.38:478][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-02.10.38:497][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.01-02.10.38:568][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:568][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:569][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:569][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:570][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:570][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:570][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:571][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:571][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:571][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:572][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:573][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:575][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.10.38:596][566]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.02.01-02.10.52:566][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-02.10.52:619][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_ShooterCharacter" FILE="../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset" SILENT=true
+[2024.02.01-02.10.52:628][ 26]LogSavePackage: Moving output files for package: /Game/ABP_ShooterCharacter
+[2024.02.01-02.10.52:628][ 26]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/ABP_ShooterCharacter8EA38EEC44C79AB2F2723DA22151457B.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/ABP_ShooterCharacter.uasset'
+[2024.02.01-02.10.52:633][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.17 sec)
+[2024.02.01-02.10.52:645][ 26]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2024.02.01-02.10.52:645][ 26]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2024.02.01-02.10.58:421][291]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2024.02.01-02.10.58:474][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.02.01-02.10.58:526][293]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:563][294]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:572][295]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:587][296]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:596][297]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:610][298]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:619][299]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:634][300]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:643][301]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:652][302]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:660][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:668][304]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:678][305]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:686][306]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:696][307]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.10.58:705][308]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2024.02.01-02.11.07:406][120]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.01-02.11.07:413][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.01-02.11.07:414][120]PIE: New page: PIE session: Sandbox (Jan 31, 2024, 4:11:07 PM)
+[2024.02.01-02.11.07:442][120]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.01-02.11.07:831][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.389578s)
+[2024.02.01-02.11.07:832][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.389627s)
+[2024.02.01-02.11.07:832][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-02.11.07:832][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-02.11.07:832][120]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.01-02.11.07:835][120]LogPlayLevel: PIE: World Init took: (0.003469s)
+[2024.02.01-02.11.07:869][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.02.01-02.11.07:871][120]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.01-02.11.07:871][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.01-02.11.07:871][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.01-02.11.07:871][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.01-02.11.07:871][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.01-02.11.07:871][120]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.01-02.11.07:871][120]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.01-02.11.07:871][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.01-02.11.07:871][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.01-02.11.07:871][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.01-02.11.07:871][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.01-02.11.07:871][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.01-02.11.07:873][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.01-02.11.07:926][120]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.01-02.11.07:926][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.01-02.11.07:926][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.01-02.11.07:926][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.01-02.11.07:926][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.01-02.11.07:926][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.01-02.11.07:929][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.01-02.11.07:929][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.01-02.11.07:929][120]LogInit: FAudioDevice initialized with ID 13.
+[2024.02.01-02.11.07:929][120]LogAudio: Display: Audio Device (ID: 13) registered with world 'Sandbox'.
+[2024.02.01-02.11.07:929][120]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.01-02.11.07:937][120]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.01-02.11.08:041][120]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.01.31-21.11.08
+[2024.02.01-02.11.08:064][120]LogWorld: Bringing up level for play took: 0.127250
+[2024.02.01-02.11.08:066][120]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.02.01-02.11.08:071][120]PIE: Server logged in
+[2024.02.01-02.11.08:072][120]PIE: Play in editor total start time 0.659 seconds.
+[2024.02.01-02.11.08:247][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:248][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:248][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:248][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:249][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:249][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:249][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:250][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:250][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:251][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:251][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:252][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.08:253][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:812][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-02.11.12:812][595]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.01-02.11.12:814][595]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-02.11.12:824][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-02.11.12:830][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.01-02.11.12:838][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-02.11.12:864][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-02.11.12:876][595]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.01-02.11.12:877][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.01-02.11.12:878][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.01-02.11.12:904][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.01-02.11.12:960][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:960][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:961][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:961][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:961][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:962][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:962][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:962][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:963][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:963][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:963][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:964][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:965][595]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.01-02.11.12:983][596]LogPlayLevel: Display: Destroying online subsystem :Context_53
