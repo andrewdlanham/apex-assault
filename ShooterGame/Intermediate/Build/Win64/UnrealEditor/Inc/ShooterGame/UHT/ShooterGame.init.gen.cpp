@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeShooterGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x2D128E66,
-				0x531E63BB,
+				0x816A9C96,
+				0x312ABFA0,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_ShooterGame.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_ShooterGame.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ShooterGame(Z_Construct_UPackage__Script_ShooterGame, TEXT("/Script/ShooterGame"), Z_Registration_Info_UPackage__Script_ShooterGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x2D128E66, 0x531E63BB));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ShooterGame(Z_Construct_UPackage__Script_ShooterGame, TEXT("/Script/ShooterGame"), Z_Registration_Info_UPackage__Script_ShooterGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x816A9C96, 0x312ABFA0));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
