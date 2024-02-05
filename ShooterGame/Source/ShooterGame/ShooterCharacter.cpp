@@ -19,6 +19,13 @@ void AShooterCharacter::BeginPlay()
 
 	// Spawn gun
 	Gun = GetWorld()->SpawnActor<AGun>(GunClass);
+
+	// Hide the existing weapon
+	GetMesh()->HideBoneByName(TEXT("weapon_r"), EPhysBodyOp::PBO_None);
+
+	// Attach gun
+	Gun->AttachToComponent(GetMesh(), FAttachmentTransformRules::KeepRelativeTransform, TEXT("WeaponSocket"));
+	Gun->SetOwner(this);
 	
 }
 
