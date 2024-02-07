@@ -15,7 +15,9 @@
             "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\unrealeditor\\inc\\shootergame\\uht\\shootercharacter.generated.h"
+            "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\unrealeditor\\inc\\shootergame\\uht\\shootercharacter.generated.h",
+            "z:\\shooter-game-prototype\\shootergame\\source\\shootergame\\gun.h",
+            "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\unrealeditor\\inc\\shootergame\\uht\\gun.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
