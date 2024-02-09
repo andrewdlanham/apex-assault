@@ -36,7 +36,15 @@ void AGun::PullTrigger()
 	FRotator CameraRotation;
 	OwnerController->GetPlayerViewPoint(CameraLocation, CameraRotation);
 
-	DrawDebugCamera(GetWorld(), CameraLocation, CameraRotation, 90, 2, FColor::Red, true);
+	//DrawDebugCamera(GetWorld(), CameraLocation, CameraRotation, 90, 2, FColor::Red, true);
+
+	FVector EndLocation = CameraLocation + CameraRotation.Vector() * MaxRange;
+
+	FHitResult HitOut;
+
+	GetWorld()->LineTraceSingleByChannel(HitOut, CameraLocation, EndLocation, ECC_GameTraceChannel1);
+
+	DrawDebugPoint(GetWorld(), HitOut.Location, 10, FColor::Red, true);
 }
 
 // Called when the game starts or when spawned
