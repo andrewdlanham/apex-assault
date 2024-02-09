@@ -9,6 +9,8 @@
 
 #include "DrawDebugHelpers.h"
 
+#include "Engine/DamageEvents.h"
+
 // Sets default values
 AGun::AGun()
 {
@@ -48,6 +50,13 @@ void AGun::PullTrigger()
 
 	FVector ShotDirection = -CameraRotation.Vector();
 	UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), ImpactEffect, HitOut.Location, ShotDirection.Rotation());
+
+	// Deal Damage
+	FPointDamageEvent DamageEvent(Damage, HitOut, ShotDirection, nullptr);
+	AActor* HitActor = HitOut.GetActor();
+	if (HitActor == nullptr) return;
+	HitActor->TakeDamage(Damage, DamageEvent, OwnerController, this);
+
 }
 
 // Called when the game starts or when spawned
