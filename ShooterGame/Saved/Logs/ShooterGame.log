@@ -2365,3 +2365,168 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.09-19.34.57:318][355]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.02.09-19.34.57:319][355]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.02.09-19.34.57:338][356]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.02.09-19.36.41:744][232]LogDerivedDataCache: C:/Users/andrewdlanham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.329 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7966 files in 9432 folders with total size 852 MiB.
+[2024.02.09-19.39.49:230][449]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-19.40.11:949][621]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_9.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_9.exp
+[2024.02.09-19.40.35:022][677]LogClass: UPackage /Script/ShooterGame Reload.
+[2024.02.09-19.40.35:022][677]LogClass: UClass Gun Reload.
+[2024.02.09-19.40.35:022][677]LogClass: Could not find existing class Gun in package /Script/ShooterGame for reload, assuming new or modified class
+[2024.02.09-19.40.35:051][677]Re-instancing Gun after reload.
+[2024.02.09-19.40.35:320][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.02.09-19.40.35:895][678]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.09-19.40.35:895][678]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.09-19.40.36:224][683]LogViewport: Scene viewport resized to 747x896, mode Windowed.
+[2024.02.09-19.40.36:856][720]LogViewport: Scene viewport resized to 1006x582, mode Windowed.
+[2024.02.09-19.40.43:757][ 52]LogViewport: Scene viewport resized to 1515x902, mode Windowed.
+[2024.02.09-19.40.43:780][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.40.43:780][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.40.43:781][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.40.43:781][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.40.43:781][ 52]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.40.55:979][250]LogTexture: Display: Building textures: /Game/AssetPacks/ShooterGame/Effects/Textures/LensFlare/Flare_02.Flare_02 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2024.02.09-19.40.56:028][250]LogTexture: Display: Building textures: /Game/AssetPacks/ShooterGame/Effects/ParticleSystems/Weapons/AssaultRifle/Impacts/P_AssaultRifle_IH.P_AssaultRifle_IH:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.02.09-19.40.56:082][251]LogTexture: Display: Building textures: /Game/AssetPacks/ShooterGame/Effects/Textures/Spark/T_SparkCore_2X2.T_SparkCore_2X2 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 122.72916 MB), EncodeSpeed: Fast
+[2024.02.09-19.40.56:126][256]LogTexture: Display: Building textures: /Game/AssetPacks/ShooterGame/Effects/Textures/Water/T_Steam_02_Packed.T_Steam_02_Packed (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.02.09-19.41.26:188][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.02.09-19.41.26:190][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sandbox' took 0.094
+[2024.02.09-19.41.26:193][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Rifle] ([2] browsable assets)...
+[2024.02.09-19.41.26:256][485]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Rifle.BP_Rifle]
+[2024.02.09-19.41.26:256][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Rifle]
+[2024.02.09-19.41.26:256][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Rifle" FILE="../../../../shooter-game-prototype/ShooterGame/Saved/Autosaves/Game/BP_Rifle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.02.09-19.41.26:271][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Rifle_Auto1
+[2024.02.09-19.41.26:272][485]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BP_Rifle_Auto1412FF19343E5F9E7B9C41EB9D99F4C4C.tmp' to '../../../../shooter-game-prototype/ShooterGame/Saved/Autosaves/Game/BP_Rifle_Auto1.uasset'
+[2024.02.09-19.41.26:274][485]LogFileHelpers: Auto-saving content packages took 0.084
+[2024.02.09-19.43.03:354][985]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-19.43.12:097][206]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-19.43.12:098][206]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-19.43.34:063][337]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-19.43.36:752][471]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-19.43.36:752][471]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-19.44.44:139][714]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-19.44.54:757][787]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_10.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_10.exp
+[2024.02.09-19.44.55:044][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.09-19.44.55:435][794]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-19.44.55:435][794]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-19.45.50:177][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-19.45.50:277][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Rifle" FILE="../../../../shooter-game-prototype/ShooterGame/Content/BP_Rifle.uasset" SILENT=true
+[2024.02.09-19.45.50:281][888]LogSavePackage: Moving output files for package: /Game/BP_Rifle
+[2024.02.09-19.45.50:283][888]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BP_Rifle95E78C7B4A277C70606137922C6FDB2B.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/BP_Rifle.uasset'
+[2024.02.09-19.45.50:294][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 383 ms)
+[2024.02.09-19.45.50:303][888]AssetCheck: New page: Asset Save: BP_Rifle
+[2024.02.09-19.45.50:304][888]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Rifle.BP_Rifle
+[2024.02.09-19.45.54:352][365]BlueprintLog: New page: Compile BP_Rifle
+[2024.02.09-19.45.54:479][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.09-19.45.55:905][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.45.55:906][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.45.55:906][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.45.55:907][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.45.55:907][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.45.55:908][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.45.55:908][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.45.56:704][517]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-19.45.58:050][607]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-19.45.58:050][607]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2024.02.09-19.46.06:086][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-19.46.06:099][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-19.46.06:099][131]PIE: New page: PIE session: Sandbox (Feb 9, 2024, 9:46:06 AM)
+[2024.02.09-19.46.06:136][131]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.09-19.46.06:489][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.353134s)
+[2024.02.09-19.46.06:489][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.353178s)
+[2024.02.09-19.46.06:489][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-19.46.06:490][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-19.46.06:490][131]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.09-19.46.06:491][131]LogPlayLevel: PIE: World Init took: (0.002416s)
+[2024.02.09-19.46.06:556][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.02.09-19.46.06:564][131]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.09-19.46.06:564][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-19.46.06:564][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-19.46.06:564][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-19.46.06:564][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-19.46.06:564][131]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-19.46.06:564][131]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-19.46.06:564][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-19.46.06:564][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-19.46.06:565][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-19.46.06:565][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-19.46.06:565][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-19.46.06:567][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-19.46.06:622][131]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.09-19.46.06:622][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-19.46.06:622][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-19.46.06:622][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-19.46.06:622][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.09-19.46.06:622][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.09-19.46.06:625][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.09-19.46.06:625][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.09-19.46.06:625][131]LogInit: FAudioDevice initialized with ID 13.
+[2024.02.09-19.46.06:625][131]LogAudio: Display: Audio Device (ID: 13) registered with world 'Sandbox'.
+[2024.02.09-19.46.06:625][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.09-19.46.06:630][131]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.09-19.46.06:734][131]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.09-14.46.06
+[2024.02.09-19.46.06:755][131]LogWorld: Bringing up level for play took: 0.123872
+[2024.02.09-19.46.06:757][131]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.02.09-19.46.06:764][131]PIE: Server logged in
+[2024.02.09-19.46.06:765][131]PIE: Play in editor total start time 0.667 seconds.
+[2024.02.09-19.46.06:856][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.06:858][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.06:858][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.06:859][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.06:859][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.06:860][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.06:861][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.06:862][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.06:864][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: ================================================
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Total job queries 249, among them cache hits 11 (4.42%)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Tracking 233 distinct input hashes that result in 187 distinct outputs (80.26%)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: RAM used: 5.55 MiB of 819.20 MiB budget. Usage: 0.68%
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Shaders Compiled: 40
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Jobs assigned 44, completed 40 (90.91%)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Average time worker was idle: 520.82 s
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Time job spent in pending queue: average 3.20 s, longest 7.59 s
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Job execution time: average 1.34 s, max 3.98 s
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Job life time (pending + execution): average 4.73 s, max 8.41
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.45 s
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Average processing rate: 2.59 jobs/sec
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Total thread time: 38.385 s
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Total thread preprocess time: 2.047 s
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Percentage time preprocessing: 5.33%
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Effective parallelization: 2.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 1.03 sec, max 1.75 sec, min 0.67 sec)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 1.03 sec, max 1.81 sec, min 0.65 sec)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.93 sec, max 1.00 sec, min 0.87 sec)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 42.87% of total time (compiled   16 times, average 1.03 sec, max 1.75 sec, min 0.67 sec)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 42.87% of total time (compiled   16 times, average 1.03 sec, max 1.81 sec, min 0.65 sec)
+[2024.02.09-19.46.08:792][265]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.85% of total time (compiled    2 times, average 0.93 sec, max 1.00 sec, min 0.87 sec)
+[2024.02.09-19.46.08:793][265]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.39% of total time (compiled    2 times, average 0.65 sec, max 0.67 sec, min 0.63 sec)
+[2024.02.09-19.46.08:793][265]LogShaderCompilers: Display:                                                  FHitProxyPS - 2.43% of total time (compiled    2 times, average 0.47 sec, max 0.51 sec, min 0.42 sec)
+[2024.02.09-19.46.08:793][265]LogShaderCompilers: Display: ================================================
+[2024.02.09-19.46.29:296][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-19.46.29:297][754]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.09-19.46.29:298][754]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-19.46.29:309][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-19.46.29:316][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-19.46.29:324][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-19.46.29:369][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-19.46.29:369][754]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.09-19.46.29:369][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.09-19.46.29:373][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.09-19.46.29:385][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-19.46.29:407][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.09-19.46.29:468][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:469][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:469][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:469][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:470][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:470][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:470][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:470][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:471][754]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-19.46.29:490][755]LogPlayLevel: Display: Destroying online subsystem :Context_29

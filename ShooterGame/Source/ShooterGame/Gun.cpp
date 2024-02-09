@@ -45,6 +45,9 @@ void AGun::PullTrigger()
 	GetWorld()->LineTraceSingleByChannel(HitOut, CameraLocation, EndLocation, ECC_GameTraceChannel1);
 
 	DrawDebugPoint(GetWorld(), HitOut.Location, 10, FColor::Red, true);
+
+	FVector ShotDirection = -CameraRotation.Vector();
+	UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), ImpactEffect, HitOut.Location, ShotDirection.Rotation());
 }
 
 // Called when the game starts or when spawned
