@@ -17,7 +17,9 @@
             "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
             "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
             "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
-            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\damageevents.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\damageevents.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
