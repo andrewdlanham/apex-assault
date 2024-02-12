@@ -11,4 +11,11 @@ void AShooterAIController::BeginPlay()
     Super::BeginPlay();
     APawn* PlayerPawn = UGameplayStatics::GetPlayerPawn(GetWorld(), 0);
     SetFocus(PlayerPawn);
+    
+}
+
+void AShooterAIController::Tick(float DeltaSeconds)
+{
+    APawn* PlayerPawn = UGameplayStatics::GetPlayerPawn(GetWorld(), 0);
+    MoveToActor(PlayerPawn, 200);
 }
