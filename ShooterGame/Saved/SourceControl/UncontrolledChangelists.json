@@ -16,6 +16,10 @@
 				"Z:/shooter-game-prototype/ShooterGame/Content/BP_Rifle.uasset",
 				"Z:/shooter-game-prototype/ShooterGame/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Meshes/Wraith_Skeleton.uasset",
 				"Z:/shooter-game-prototype/ShooterGame/Content/BP_ShooterAIController.uasset",
+				"Z:/shooter-game-prototype/ShooterGame/Content/BT_EnemyAI.uasset",
+				"Z:/shooter-game-prototype/ShooterGame/Content/AI/BB_EnemyAI.uasset",
+				"Z:/shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset",
+				"Z:/shooter-game-prototype/ShooterGame/Content/AI/BP_ShooterAIController.uasset",
 				"Z:/shooter-game-prototype/ShooterGame/Content/BP_Gun.uasset",
 				"Z:/shooter-game-prototype/ShooterGame/Content/Map2.umap"
 			]
