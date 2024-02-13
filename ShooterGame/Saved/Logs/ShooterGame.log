@@ -1403,3 +1403,1078 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.13-19.45.38:965][789]LogViewport: Scene viewport resized to 1469x902, mode Windowed.
 [2024.02.13-19.45.39:017][791]LogViewport: Scene viewport resized to 1464x902, mode Windowed.
 [2024.02.13-19.45.39:072][793]LogViewport: Scene viewport resized to 1455x902, mode Windowed.
+[2024.02.13-19.47.28:347][860]LogSlate: Took 0.008414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.13-19.47.29:848][963]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-19.47.33:495][205]LogSlate: Window 'BT_EnemyAI' being destroyed
+[2024.02.13-19.48.17:913][576]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-19.48.17:927][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-19.48.17:927][576]PIE: New page: PIE session: Sandbox (Feb 13, 2024, 9:48:17 AM)
+[2024.02.13-19.48.17:927][576]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.13-19.48.18:247][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.318949s)
+[2024.02.13-19.48.18:247][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.318986s)
+[2024.02.13-19.48.18:247][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-19.48.18:248][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-19.48.18:248][576]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.13-19.48.18:250][576]LogPlayLevel: PIE: World Init took: (0.002638s)
+[2024.02.13-19.48.18:265][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.13-19.48.18:267][576]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.13-19.48.18:267][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-19.48.18:267][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-19.48.18:267][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-19.48.18:267][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-19.48.18:267][576]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-19.48.18:267][576]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-19.48.18:267][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-19.48.18:267][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-19.48.18:267][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-19.48.18:267][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-19.48.18:267][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-19.48.18:270][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-19.48.18:374][576]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.13-19.48.18:375][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-19.48.18:375][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-19.48.18:375][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-19.48.18:376][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.13-19.48.18:376][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.13-19.48.18:378][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.13-19.48.18:378][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.13-19.48.18:378][576]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.13-19.48.18:378][576]LogAudio: Display: Audio Device (ID: 3) registered with world 'Sandbox'.
+[2024.02.13-19.48.18:378][576]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.13-19.48.18:383][576]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.13-19.48.18:491][576]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.13-14.48.18
+[2024.02.13-19.48.18:511][576]LogWorld: Bringing up level for play took: 0.128330
+[2024.02.13-19.48.18:513][576]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.02.13-19.48.18:521][576]PIE: Server logged in
+[2024.02.13-19.48.18:522][576]PIE: Play in editor total start time 0.597 seconds.
+[2024.02.13-19.48.18:602][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:602][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:603][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:603][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:604][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:604][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:605][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:605][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:606][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:606][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:606][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:607][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:607][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:608][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:609][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.18:609][576]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.21:902][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-19.48.21:902][955]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.13-19.48.21:903][955]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-19.48.21:912][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-19.48.21:918][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-19.48.21:923][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-19.48.21:945][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-19.48.21:945][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.13-19.48.21:945][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.13-19.48.21:946][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.13-19.48.21:953][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-19.48.21:971][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.13-19.48.22:018][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:019][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:019][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:019][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:020][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:020][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:020][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:021][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:021][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:021][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:022][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:022][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:022][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:023][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:023][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:023][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-19.48.22:026][956]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.02.13-19.48.24:347][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.48.24:407][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-19.48.24:410][201]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-19.48.24:410][201]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI73BBB1694B8E61A96224DAAEE81854AE.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-19.48.24:416][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 149 ms)
+[2024.02.13-19.48.24:425][201]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-19.48.24:425][201]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-19.49.02:284][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-19.49.02:342][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-19.49.02:345][102]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-19.49.02:345][102]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI4DC111534360027DE4B8588A9AB67E1F.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-19.49.02:351][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 217 ms)
+[2024.02.13-19.49.02:359][102]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-19.49.02:359][102]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-19.50.26:794][945]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-19.50.26:824][945]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.02.13-19.50.52:840][ 59]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_1.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_1.exp
+[2024.02.13-19.50.53:339][ 61]LogClass: UPackage /Script/ShooterGame Reload.
+[2024.02.13-19.50.53:339][ 61]LogClass: Could not find existing class BTTask_Shoot in package /Script/ShooterGame for reload, assuming new or modified class
+[2024.02.13-19.50.53:410][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.02.13-19.50.53:588][ 62]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.02.13-19.50.53:588][ 62]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.13-20.34.31:618][ 90]LogDerivedDataCache: C:/Users/andrewdlanham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8007 files in 9475 folders with total size 857 MiB.
+[2024.02.13-20.38.08:173][740]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.13-20.38.08:173][740]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.13-20.58.00:630][370]Running Z:/UE_5.2/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="Z:/shooter-game-prototype/ShooterGame/ShooterGame.uproject" -game -rocket -progress
+[2024.02.13-20.58.00:771][370]Using bundled DotNet SDK version: 6.0.302
+[2024.02.13-20.58.00:771][370]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="Z:/shooter-game-prototype/ShooterGame/ShooterGame.uproject" -game -rocket -progress
+[2024.02.13-20.58.01:374][370]Log file: C:\Users\andrewdlanham\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.02.13-20.58.02:079][370]
+[2024.02.13-20.58.02:079][370]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2024.02.13-20.58.02:079][370]See the log file for detailed information
+[2024.02.13-20.58.02:080][370]
+[2024.02.13-20.58.02:080][370]
+[2024.02.13-20.58.02:080][370]Generating VisualStudioCode project files:
+[2024.02.13-20.58.02:080][370]Discovering modules, targets and source code for project...
+[2024.02.13-20.58.03:789][370]Binding IntelliSense data...
+[2024.02.13-20.58.16:668][370]Binding IntelliSense data... 50%
+[2024.02.13-20.58.16:669][370]Binding IntelliSense data... 100%
+[2024.02.13-20.58.16:669][370]Writing project files...
+[2024.02.13-20.58.19:588][370]Writing project files... 100%
+[2024.02.13-20.58.19:823][371]LogAutomationController: Ignoring very large delta of 19.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.13-21.00.31:644][131]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-21.00.32:805][221]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.13-21.00.56:062][931]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_2.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_2.exp
+[2024.02.13-21.00.56:516][940]LogClass: UPackage /Script/ShooterGame Reload.
+[2024.02.13-21.00.56:713][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.02.13-21.00.56:758][941]Display: Reload/Re-instancing Complete: 1 package changed, 3 classes unchanged, 1 function remapped
+[2024.02.13-21.00.56:758][941]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-21.00.59:205][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-21.00.59:231][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-21.00.59:231][142]PIE: New page: PIE session: Sandbox (Feb 13, 2024, 11:00:59 AM)
+[2024.02.13-21.00.59:231][142]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.13-21.00.59:552][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.320406s)
+[2024.02.13-21.00.59:552][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.320942s)
+[2024.02.13-21.00.59:552][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-21.00.59:552][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-21.00.59:553][142]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.13-21.00.59:554][142]LogPlayLevel: PIE: World Init took: (0.002483s)
+[2024.02.13-21.00.59:566][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.02.13-21.00.59:567][142]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.13-21.00.59:567][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-21.00.59:567][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-21.00.59:567][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-21.00.59:567][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-21.00.59:568][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-21.00.59:568][142]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-21.00.59:568][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-21.00.59:568][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-21.00.59:568][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-21.00.59:568][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-21.00.59:568][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-21.00.59:570][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-21.00.59:624][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.13-21.00.59:624][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-21.00.59:624][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-21.00.59:624][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-21.00.59:625][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.13-21.00.59:625][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.13-21.00.59:627][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.13-21.00.59:627][142]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.13-21.00.59:627][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.13-21.00.59:627][142]LogAudio: Display: Audio Device (ID: 4) registered with world 'Sandbox'.
+[2024.02.13-21.00.59:627][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.13-21.00.59:632][142]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.13-21.00.59:745][142]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.13-16.00.59
+[2024.02.13-21.00.59:766][142]LogWorld: Bringing up level for play took: 0.133537
+[2024.02.13-21.00.59:771][142]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.02.13-21.00.59:779][142]PIE: Server logged in
+[2024.02.13-21.00.59:780][142]PIE: Play in editor total start time 0.554 seconds.
+[2024.02.13-21.00.59:863][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:863][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:864][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:865][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:865][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:866][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:866][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:867][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:867][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:867][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:868][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:868][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:869][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:870][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:870][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.00.59:871][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.00:248][174]LogTemp: Warning: Health:90.000000
+[2024.02.13-21.01.00:276][177]LogTemp: Warning: Health:80.000000
+[2024.02.13-21.01.00:301][180]LogTemp: Warning: Health:70.000000
+[2024.02.13-21.01.00:330][183]LogTemp: Warning: Health:60.000000
+[2024.02.13-21.01.00:355][186]LogTemp: Warning: Health:50.000000
+[2024.02.13-21.01.00:380][189]LogTemp: Warning: Health:40.000000
+[2024.02.13-21.01.00:405][192]LogTemp: Warning: Health:30.000000
+[2024.02.13-21.01.00:430][195]LogTemp: Warning: Health:20.000000
+[2024.02.13-21.01.00:455][198]LogTemp: Warning: Health:10.000000
+[2024.02.13-21.01.00:481][201]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:507][204]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:541][207]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:570][210]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:599][213]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:624][216]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:650][219]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:675][222]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:701][225]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:727][228]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:753][231]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:778][234]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:805][237]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:830][240]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:857][243]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:883][246]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:908][249]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:934][252]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:960][255]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.00:986][258]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:013][261]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:039][264]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:065][267]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:090][270]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:116][273]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:143][276]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:171][279]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:197][282]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:225][285]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:255][288]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:280][291]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:306][294]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:334][297]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:361][300]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:389][303]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:415][306]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:441][309]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:467][312]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:492][315]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:520][318]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:552][321]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:581][324]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:609][327]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:639][330]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:668][333]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:695][336]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:721][339]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:747][342]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:776][345]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:804][348]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:831][351]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:860][354]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:888][357]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:915][360]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:944][363]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.01:971][366]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.02:002][369]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.02:036][372]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.02:070][375]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.02:099][378]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.01.02:125][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.01.02:125][378]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.13-21.01.02:127][378]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.01.02:136][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.01.02:142][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-21.01.02:148][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.01.02:168][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-21.01.02:168][378]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.13-21.01.02:169][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.13-21.01.02:171][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.13-21.01.02:176][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.01.02:194][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.02.13-21.01.02:245][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:245][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:245][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:246][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:246][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:246][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:247][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:247][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:247][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:248][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:248][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:249][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:249][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:249][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:250][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:250][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.01.02:253][379]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.02.13-21.01.19:406][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.01.19:458][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-21.01.19:461][890]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-21.01.19:461][890]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI09D1A56F48279C67B6FEBAB22ED9440A.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-21.01.19:468][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 278 ms)
+[2024.02.13-21.01.19:472][890]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-21.01.19:472][890]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-21.02.30:559][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.02.30:611][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-21.02.30:614][510]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-21.02.30:615][510]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI43DB42B84F229557C0FF17A03C558EB8.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-21.02.30:621][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 339 ms)
+[2024.02.13-21.02.30:631][510]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-21.02.30:631][510]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-21.02.33:126][779]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-21.02.33:139][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-21.02.33:139][779]PIE: New page: PIE session: Sandbox (Feb 13, 2024, 11:02:33 AM)
+[2024.02.13-21.02.33:162][779]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.13-21.02.33:489][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.325823s)
+[2024.02.13-21.02.33:489][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.326447s)
+[2024.02.13-21.02.33:489][779]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-21.02.33:489][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-21.02.33:489][779]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.13-21.02.33:491][779]LogPlayLevel: PIE: World Init took: (0.001992s)
+[2024.02.13-21.02.33:503][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.13-21.02.33:504][779]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.13-21.02.33:504][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-21.02.33:504][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-21.02.33:504][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-21.02.33:504][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-21.02.33:504][779]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-21.02.33:504][779]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-21.02.33:504][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-21.02.33:504][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-21.02.33:505][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-21.02.33:505][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-21.02.33:505][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-21.02.33:507][779]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-21.02.33:559][779]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.13-21.02.33:559][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-21.02.33:559][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-21.02.33:559][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-21.02.33:560][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.13-21.02.33:560][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.13-21.02.33:561][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.13-21.02.33:562][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.13-21.02.33:562][779]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.13-21.02.33:562][779]LogAudio: Display: Audio Device (ID: 5) registered with world 'Sandbox'.
+[2024.02.13-21.02.33:562][779]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.13-21.02.33:565][779]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.13-21.02.33:664][779]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.13-16.02.33
+[2024.02.13-21.02.33:685][779]LogWorld: Bringing up level for play took: 0.119054
+[2024.02.13-21.02.33:687][779]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.02.13-21.02.33:694][779]PIE: Server logged in
+[2024.02.13-21.02.33:695][779]PIE: Play in editor total start time 0.558 seconds.
+[2024.02.13-21.02.33:789][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:790][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:790][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:791][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:791][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:792][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:793][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:794][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:794][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:794][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:795][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:795][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:796][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:797][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:797][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.33:798][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.34:175][817]LogTemp: Warning: Health:90.000000
+[2024.02.13-21.02.35:194][935]LogTemp: Warning: Health:80.000000
+[2024.02.13-21.02.35:202][936]LogTemp: Warning: Health:70.000000
+[2024.02.13-21.02.36:223][ 55]LogTemp: Warning: Health:60.000000
+[2024.02.13-21.02.36:231][ 56]LogTemp: Warning: Health:50.000000
+[2024.02.13-21.02.37:240][177]LogTemp: Warning: Health:40.000000
+[2024.02.13-21.02.37:248][178]LogTemp: Warning: Health:30.000000
+[2024.02.13-21.02.38:265][299]LogTemp: Warning: Health:20.000000
+[2024.02.13-21.02.38:275][300]LogTemp: Warning: Health:10.000000
+[2024.02.13-21.02.39:287][420]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.39:296][421]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.40:304][542]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.40:312][543]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.41:326][658]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.41:334][659]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.42:343][780]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.42:351][781]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.43:360][902]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.43:369][903]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.44:378][ 24]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.44:386][ 25]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.45:396][146]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.45:405][147]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.46:413][267]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.46:423][268]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.47:431][389]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.47:440][390]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.02.47:957][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.02.47:957][447]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.13-21.02.47:958][447]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.02.47:967][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.02.47:973][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-21.02.47:979][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.02.48:000][447]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-21.02.48:000][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.13-21.02.48:000][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.13-21.02.48:003][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.13-21.02.48:039][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.02.48:059][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.13-21.02.48:109][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:110][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:110][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:110][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:111][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:111][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:111][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:112][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:112][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:113][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:113][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:113][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:114][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:114][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:114][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:115][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.02.48:118][448]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.02.13-21.05.56:060][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.05.56:108][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-21.05.56:111][542]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-21.05.56:112][542]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI3D1CA8694A63C16B599EE88D1CEF6A8A.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-21.05.56:118][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 397 ms)
+[2024.02.13-21.05.56:125][542]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-21.05.56:125][542]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-21.07.53:183][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.07.53:232][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-21.07.53:235][310]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-21.07.53:236][310]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI171D469F466770C0693497899347433A.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-21.07.53:242][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 456 ms)
+[2024.02.13-21.07.53:246][310]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-21.07.53:247][310]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-21.08.15:776][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.08.15:834][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-21.08.15:839][675]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-21.08.15:839][675]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAIE85D77B849F5128724F162ACB529F908.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-21.08.15:848][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 527 ms)
+[2024.02.13-21.08.15:853][675]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-21.08.15:853][675]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-21.08.45:593][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-21.08.45:653][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-21.08.45:656][598]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-21.08.45:657][598]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI303D24CB45E289CBA97C7D814F78165F.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-21.08.45:664][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 598 ms)
+[2024.02.13-21.08.45:668][598]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-21.08.45:668][598]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-21.08.47:024][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-21.08.47:035][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-21.08.47:035][738]PIE: New page: PIE session: Sandbox (Feb 13, 2024, 11:08:47 AM)
+[2024.02.13-21.08.47:036][738]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.13-21.08.47:400][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.364156s)
+[2024.02.13-21.08.47:400][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.364287s)
+[2024.02.13-21.08.47:400][738]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-21.08.47:400][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-21.08.47:400][738]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.13-21.08.47:402][738]LogPlayLevel: PIE: World Init took: (0.001881s)
+[2024.02.13-21.08.47:415][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.13-21.08.47:417][738]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.13-21.08.47:417][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-21.08.47:417][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-21.08.47:417][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-21.08.47:417][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-21.08.47:417][738]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-21.08.47:417][738]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-21.08.47:417][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-21.08.47:417][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-21.08.47:418][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-21.08.47:418][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-21.08.47:418][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-21.08.47:420][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-21.08.47:509][738]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.13-21.08.47:510][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-21.08.47:510][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-21.08.47:510][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-21.08.47:511][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.13-21.08.47:511][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.13-21.08.47:518][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.13-21.08.47:518][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.13-21.08.47:518][738]LogInit: FAudioDevice initialized with ID 6.
+[2024.02.13-21.08.47:518][738]LogAudio: Display: Audio Device (ID: 6) registered with world 'Sandbox'.
+[2024.02.13-21.08.47:518][738]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.13-21.08.47:522][738]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.13-21.08.47:622][738]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.13-16.08.47
+[2024.02.13-21.08.47:646][738]LogWorld: Bringing up level for play took: 0.123688
+[2024.02.13-21.08.47:649][738]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.02.13-21.08.47:655][738]PIE: Server logged in
+[2024.02.13-21.08.47:656][738]PIE: Play in editor total start time 0.622 seconds.
+[2024.02.13-21.08.47:759][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:759][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:760][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:762][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:763][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:764][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:765][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:765][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:766][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:767][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:767][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:768][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:768][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:769][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:769][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.47:770][738]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.48:149][778]LogTemp: Warning: Health:90.000000
+[2024.02.13-21.08.49:162][895]LogTemp: Warning: Health:80.000000
+[2024.02.13-21.08.49:170][896]LogTemp: Warning: Health:70.000000
+[2024.02.13-21.08.50:186][ 10]LogTemp: Warning: Health:60.000000
+[2024.02.13-21.08.50:196][ 11]LogTemp: Warning: Health:50.000000
+[2024.02.13-21.08.54:399][509]LogTemp: Warning: Health:40.000000
+[2024.02.13-21.08.56:969][801]LogTemp: Warning: Health:30.000000
+[2024.02.13-21.08.57:181][824]LogTemp: Warning: Health:20.000000
+[2024.02.13-21.08.57:368][844]LogTemp: Warning: Health:10.000000
+[2024.02.13-21.08.57:530][862]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.08.57:698][881]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.08.57:872][900]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.08.58:125][928]LogTemp: Warning: Health:0.000000
+[2024.02.13-21.08.58:226][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.08.58:226][936]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.13-21.08.58:227][936]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-21.08.58:237][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.08.58:243][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-21.08.58:250][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-21.08.58:272][936]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-21.08.58:272][936]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.13-21.08.58:272][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.13-21.08.58:274][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.13-21.08.58:280][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-21.08.58:297][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.13-21.08.58:353][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:353][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:354][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:354][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:355][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:355][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:355][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:356][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:356][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:356][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:357][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:357][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:357][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:358][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:358][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:358][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.08.58:361][937]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.02.13-21.11.59:984][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:985][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:985][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:986][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:986][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:986][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:987][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:987][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:987][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:988][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:988][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:989][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:989][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:989][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:990][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:990][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.11.59:992][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-21.12.00:043][503]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-21.12.00:085][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-21.12.56:434][847]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-21.12.56:459][847]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.02.13-21.13.26:531][955]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_3.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_3.exp
+[2024.02.13-21.13.26:976][957]LogClass: UPackage /Script/ShooterGame Reload.
+[2024.02.13-21.13.26:976][957]LogClass: Could not find existing class BTService_PlayerLocation in package /Script/ShooterGame for reload, assuming new or modified class
+[2024.02.13-21.13.27:038][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.13-21.13.27:220][958]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.02.13-21.13.27:220][958]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.13-21.34.31:802][770]LogDerivedDataCache: C:/Users/andrewdlanham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.333 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8007 files in 9475 folders with total size 857 MiB.
+[2024.02.13-22.21.55:860][495]Running Z:/UE_5.2/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="Z:/shooter-game-prototype/ShooterGame/ShooterGame.uproject" -game -rocket -progress
+[2024.02.13-22.21.55:980][495]Using bundled DotNet SDK version: 6.0.302
+[2024.02.13-22.21.55:980][495]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="Z:/shooter-game-prototype/ShooterGame/ShooterGame.uproject" -game -rocket -progress
+[2024.02.13-22.21.58:596][495]Log file: C:\Users\andrewdlanham\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.02.13-22.21.59:857][495]
+[2024.02.13-22.21.59:857][495]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2024.02.13-22.21.59:857][495]See the log file for detailed information
+[2024.02.13-22.21.59:857][495]
+[2024.02.13-22.21.59:857][495]
+[2024.02.13-22.21.59:857][495]Generating VisualStudioCode project files:
+[2024.02.13-22.21.59:857][495]Discovering modules, targets and source code for project...
+[2024.02.13-22.22.06:040][495]Binding IntelliSense data...
+[2024.02.13-22.22.20:063][495]Binding IntelliSense data... 50%
+[2024.02.13-22.22.20:063][495]Binding IntelliSense data... 100%
+[2024.02.13-22.22.20:063][495]Writing project files...
+[2024.02.13-22.22.23:486][495]Writing project files... 100%
+[2024.02.13-22.22.23:807][496]LogAutomationController: Ignoring very large delta of 28.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.13-22.28.09:576][701]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.28.44:342][285]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_4.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_4.exp
+[2024.02.13-22.28.44:859][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.13-22.28.44:891][287]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2024.02.13-22.28.44:891][287]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-22.29.37:674][476]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.29.58:961][869]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_5.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_5.exp
+[2024.02.13-22.29.59:119][872]LogClass: UPackage /Script/ShooterGame Reload.
+[2024.02.13-22.29.59:241][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.13-22.29.59:273][873]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2024.02.13-22.29.59:273][873]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-22.32.24:004][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.13-22.32.24:010][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sandbox' took 0.019
+[2024.02.13-22.32.24:017][682]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_EnemyAI] ([1] browsable assets)...
+[2024.02.13-22.32.24:017][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_EnemyAI]
+[2024.02.13-22.32.24:017][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Saved/Autosaves/Game/AI/BT_EnemyAI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.02.13-22.32.24:024][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BT_EnemyAI_Auto1
+[2024.02.13-22.32.24:024][682]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI_Auto16134F5724B42039A5F094EB29E864EE4.tmp' to '../../../../shooter-game-prototype/ShooterGame/Saved/Autosaves/Game/AI/BT_EnemyAI_Auto1.uasset'
+[2024.02.13-22.32.24:027][682]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.02.13-22.34.21:650][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-22.34.21:709][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-22.34.21:713][378]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-22.34.21:713][378]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI36346A0743A3A888BFF282BD6B6488B7.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-22.34.21:721][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 669 ms)
+[2024.02.13-22.34.21:735][378]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-22.34.21:735][378]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-22.34.31:679][ 19]LogDerivedDataCache: C:/Users/andrewdlanham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.210 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8007 files in 9475 folders with total size 857 MiB.
+[2024.02.13-22.36.28:532][156]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.36.28:567][156]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.02.13-22.36.46:399][228]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_6.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_6.exp
+[2024.02.13-22.36.46:832][230]LogClass: UPackage /Script/ShooterGame Reload.
+[2024.02.13-22.36.46:833][230]LogClass: Could not find existing class BTService_UPDPlayerLocIfSeen in package /Script/ShooterGame for reload, assuming new or modified class
+[2024.02.13-22.36.46:887][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.13-22.36.47:091][231]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.02.13-22.36.47:091][231]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.13-22.39.13:445][303]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.02.13-22.39.25:790][476]Running Z:/UE_5.2/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="Z:/shooter-game-prototype/ShooterGame/ShooterGame.uproject" -game -rocket -progress
+[2024.02.13-22.39.25:892][476]Using bundled DotNet SDK version: 6.0.302
+[2024.02.13-22.39.25:892][476]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="Z:/shooter-game-prototype/ShooterGame/ShooterGame.uproject" -game -rocket -progress
+[2024.02.13-22.39.26:195][476]Log file: C:\Users\andrewdlanham\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.02.13-22.39.26:496][476]
+[2024.02.13-22.39.26:496][476]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2024.02.13-22.39.26:496][476]See the log file for detailed information
+[2024.02.13-22.39.26:496][476]
+[2024.02.13-22.39.26:597][476]
+[2024.02.13-22.39.26:597][476]Generating VisualStudioCode project files:
+[2024.02.13-22.39.26:597][476]Discovering modules, targets and source code for project...
+[2024.02.13-22.39.27:703][476]Binding IntelliSense data...
+[2024.02.13-22.39.31:848][476]Binding IntelliSense data... 100%
+[2024.02.13-22.39.31:848][476]Writing project files...
+[2024.02.13-22.39.36:982][476]Writing project files... 100%
+[2024.02.13-22.39.37:194][477]LogAutomationController: Ignoring very large delta of 11.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.13-22.45.37:497][149]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.46.01:426][381]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.46.01:426][381]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.13-22.46.22:308][582]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.46.30:835][404]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_7.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_7.exp
+[2024.02.13-22.46.31:014][410]LogClass: UPackage /Script/ShooterGame Reload.
+[2024.02.13-22.46.31:155][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.13-22.46.31:178][411]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2024.02.13-22.46.31:178][411]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-22.48.12:702][929]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.48.15:401][940]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.48.15:401][940]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.13-22.48.23:690][108]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.48.27:733][457]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.48.27:733][457]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.13-22.48.55:830][985]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.49.04:005][770]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_8.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_8.exp
+[2024.02.13-22.49.04:198][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.02.13-22.49.04:222][777]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.49.04:222][777]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-22.49.31:236][ 21]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.49.37:336][697]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_9.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_9.exp
+[2024.02.13-22.49.37:515][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.13-22.49.37:539][703]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.49.37:539][703]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-22.49.53:455][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-22.49.53:504][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-22.49.53:508][521]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-22.49.53:508][521]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAICEC5C0E34C2492BF6F14B6A56FC42A61.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-22.49.53:514][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 728 ms)
+[2024.02.13-22.49.53:519][521]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-22.49.53:519][521]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-22.50.13:363][470]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.50.19:163][551]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_10.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_10.exp
+[2024.02.13-22.50.19:506][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.02.13-22.50.19:703][553]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.50.19:703][553]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-22.51.18:369][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.51.18:387][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.51.18:467][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.13-22.51.18:485][887]LogViewport: Scene viewport resized to 725x902, mode Windowed.
+[2024.02.13-22.51.18:522][887]LogSlate: Took 0.008361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.13-22.51.18:573][887]LogViewport: Scene viewport resized to 725x902, mode Windowed.
+[2024.02.13-22.51.21:422][202]LogViewport: Scene viewport resized to 720x902, mode Windowed.
+[2024.02.13-22.51.21:456][202]LogViewport: Scene viewport resized to 730x902, mode Windowed.
+[2024.02.13-22.51.21:492][203]LogViewport: Scene viewport resized to 698x902, mode Windowed.
+[2024.02.13-22.51.21:513][203]LogViewport: Scene viewport resized to 753x902, mode Windowed.
+[2024.02.13-22.51.21:558][205]LogViewport: Scene viewport resized to 660x902, mode Windowed.
+[2024.02.13-22.51.21:580][205]LogViewport: Scene viewport resized to 790x902, mode Windowed.
+[2024.02.13-22.51.21:621][207]LogViewport: Scene viewport resized to 635x902, mode Windowed.
+[2024.02.13-22.51.21:645][207]LogViewport: Scene viewport resized to 816x902, mode Windowed.
+[2024.02.13-22.51.21:688][209]LogViewport: Scene viewport resized to 598x902, mode Windowed.
+[2024.02.13-22.51.21:712][209]LogViewport: Scene viewport resized to 853x902, mode Windowed.
+[2024.02.13-22.51.21:756][211]LogViewport: Scene viewport resized to 558x902, mode Windowed.
+[2024.02.13-22.51.21:780][211]LogViewport: Scene viewport resized to 892x902, mode Windowed.
+[2024.02.13-22.51.22:592][305]LogViewport: Scene viewport resized to 542x902, mode Windowed.
+[2024.02.13-22.51.22:626][305]LogViewport: Scene viewport resized to 909x902, mode Windowed.
+[2024.02.13-22.51.22:668][307]LogViewport: Scene viewport resized to 529x902, mode Windowed.
+[2024.02.13-22.51.22:692][307]LogViewport: Scene viewport resized to 921x902, mode Windowed.
+[2024.02.13-22.51.23:191][364]LogViewport: Scene viewport resized to 532x902, mode Windowed.
+[2024.02.13-22.51.23:225][364]LogViewport: Scene viewport resized to 919x902, mode Windowed.
+[2024.02.13-22.51.23:275][367]LogViewport: Scene viewport resized to 543x902, mode Windowed.
+[2024.02.13-22.51.23:298][367]LogViewport: Scene viewport resized to 907x902, mode Windowed.
+[2024.02.13-22.51.23:496][388]LogViewport: Scene viewport resized to 550x902, mode Windowed.
+[2024.02.13-22.51.23:530][388]LogViewport: Scene viewport resized to 901x902, mode Windowed.
+[2024.02.13-22.51.30:464][185]LogEditorViewport: Clicking Background
+[2024.02.13-22.51.30:958][239]Cmd: TRANSACTION UNDO
+[2024.02.13-22.51.30:959][239]LogEditorTransaction: Undo Clicking Background
+[2024.02.13-22.51.31:149][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:150][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:150][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:151][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:151][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:152][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:152][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:152][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:153][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:153][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:153][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:154][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:154][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:154][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:155][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.31:159][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.35:885][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.51.35:920][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.13-22.51.35:936][739]LogViewport: Scene viewport resized to 1455x902, mode Windowed.
+[2024.02.13-22.51.58:674][907]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-22.51.58:695][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-22.51.58:696][907]PIE: New page: PIE session: Sandbox (Feb 13, 2024, 12:51:58 PM)
+[2024.02.13-22.51.58:696][907]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.13-22.51.59:069][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.371800s)
+[2024.02.13-22.51.59:069][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.372267s)
+[2024.02.13-22.51.59:069][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-22.51.59:069][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-22.51.59:070][907]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.13-22.51.59:073][907]LogPlayLevel: PIE: World Init took: (0.004288s)
+[2024.02.13-22.51.59:085][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.13-22.51.59:087][907]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.13-22.51.59:087][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-22.51.59:087][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-22.51.59:087][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-22.51.59:087][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-22.51.59:087][907]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-22.51.59:087][907]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-22.51.59:087][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-22.51.59:087][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-22.51.59:087][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-22.51.59:087][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-22.51.59:087][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-22.51.59:092][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-22.51.59:149][907]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.13-22.51.59:151][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-22.51.59:151][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-22.51.59:152][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-22.51.59:153][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.13-22.51.59:153][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.13-22.51.59:157][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.13-22.51.59:157][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.13-22.51.59:157][907]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.13-22.51.59:157][907]LogAudio: Display: Audio Device (ID: 7) registered with world 'Sandbox'.
+[2024.02.13-22.51.59:157][907]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.13-22.51.59:164][907]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.13-22.51.59:295][907]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.13-17.51.59
+[2024.02.13-22.51.59:319][907]LogWorld: Bringing up level for play took: 0.154426
+[2024.02.13-22.51.59:324][907]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.02.13-22.51.59:339][907]PIE: Server logged in
+[2024.02.13-22.51.59:339][907]PIE: Play in editor total start time 0.656 seconds.
+[2024.02.13-22.51.59:493][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:494][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:494][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:495][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:495][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:496][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:496][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:496][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:497][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:498][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:498][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:499][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:499][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:500][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:500][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:502][907]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.51.59:885][942]LogTemp: Warning: Health:90.000000
+[2024.02.13-22.52.00:900][ 46]LogTemp: Warning: Health:80.000000
+[2024.02.13-22.52.00:909][ 47]LogTemp: Warning: Health:70.000000
+[2024.02.13-22.52.01:930][149]LogTemp: Warning: Health:60.000000
+[2024.02.13-22.52.01:940][150]LogTemp: Warning: Health:50.000000
+[2024.02.13-22.52.14:738][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:738][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:739][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:739][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:740][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:740][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:740][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:741][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:742][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:742][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.14:742][562]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.30:702][627]LogSlate: Window 'BT_EnemyAI' being destroyed
+[2024.02.13-22.52.32:018][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.52.32:018][752]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.13-22.52.32:020][752]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-22.52.32:029][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-22.52.32:035][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-22.52.32:041][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-22.52.32:053][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.52.32:064][752]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.13-22.52.32:064][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.13-22.52.32:085][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.13-22.52.32:112][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.02.13-22.52.32:139][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:140][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:140][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:141][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:141][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:141][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:142][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:142][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:143][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:143][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:143][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:144][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:144][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:144][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:145][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:145][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:146][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.52.32:168][753]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.02.13-22.55.48:084][450]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.55.59:114][238]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_11.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_11.exp
+[2024.02.13-22.55.59:296][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.13-22.55.59:323][242]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.55.59:324][242]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-22.56.26:723][514]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-22.56.26:724][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-22.56.33:718][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-22.56.33:761][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-22.56.33:765][290]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-22.56.33:765][290]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI5B606B8E4FFE87335CA21499BDE929A9.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-22.56.33:770][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 781 ms)
+[2024.02.13-22.56.33:779][290]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-22.56.33:779][290]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-22.57.36:478][153]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.58.02:063][175]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_12.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_12.exp
+[2024.02.13-22.58.02:716][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.02.13-22.58.02:740][232]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.58.02:740][232]LogLiveCoding: Display: Live coding succeeded
+[2024.02.13-22.58.14:335][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-22.58.14:387][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-22.58.14:391][935]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-22.58.14:391][935]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI711F852B44EFBC59100DB18F5B63F102.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-22.58.14:397][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 843 ms)
+[2024.02.13-22.58.14:402][935]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-22.58.14:402][935]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-22.58.16:698][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-22.58.16:713][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-22.58.16:713][149]PIE: New page: PIE session: Sandbox (Feb 13, 2024, 12:58:16 PM)
+[2024.02.13-22.58.16:713][149]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.13-22.58.17:058][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.345130s)
+[2024.02.13-22.58.17:058][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.345169s)
+[2024.02.13-22.58.17:058][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-22.58.17:058][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-22.58.17:059][149]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.13-22.58.17:060][149]LogPlayLevel: PIE: World Init took: (0.002210s)
+[2024.02.13-22.58.17:072][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.13-22.58.17:073][149]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.13-22.58.17:073][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-22.58.17:073][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-22.58.17:073][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-22.58.17:073][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-22.58.17:073][149]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-22.58.17:073][149]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-22.58.17:073][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-22.58.17:073][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-22.58.17:073][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-22.58.17:073][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-22.58.17:073][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-22.58.17:076][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-22.58.17:128][149]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.13-22.58.17:129][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-22.58.17:129][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-22.58.17:129][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-22.58.17:130][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.13-22.58.17:130][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.13-22.58.17:133][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.13-22.58.17:133][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.13-22.58.17:133][149]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.13-22.58.17:133][149]LogAudio: Display: Audio Device (ID: 8) registered with world 'Sandbox'.
+[2024.02.13-22.58.17:133][149]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.13-22.58.17:138][149]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.13-22.58.17:242][149]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.13-17.58.17
+[2024.02.13-22.58.17:264][149]LogWorld: Bringing up level for play took: 0.125402
+[2024.02.13-22.58.17:266][149]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.02.13-22.58.17:272][149]PIE: Server logged in
+[2024.02.13-22.58.17:272][149]PIE: Play in editor total start time 0.562 seconds.
+[2024.02.13-22.58.17:451][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:452][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:452][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:453][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:453][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:454][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:454][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:454][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:455][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:455][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:455][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:456][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:456][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:456][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:457][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:457][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:459][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.17:730][183]LogTemp: Warning: Health:90.000000
+[2024.02.13-22.58.18:743][302]LogTemp: Warning: Health:80.000000
+[2024.02.13-22.58.18:753][303]LogTemp: Warning: Health:70.000000
+[2024.02.13-22.58.19:767][424]LogTemp: Warning: Health:60.000000
+[2024.02.13-22.58.19:775][425]LogTemp: Warning: Health:50.000000
+[2024.02.13-22.58.20:790][545]LogTemp: Warning: Health:40.000000
+[2024.02.13-22.58.20:799][546]LogTemp: Warning: Health:30.000000
+[2024.02.13-22.58.21:808][661]LogTemp: Warning: Health:20.000000
+[2024.02.13-22.58.21:817][662]LogTemp: Warning: Health:10.000000
+[2024.02.13-22.58.22:826][783]LogTemp: Warning: Health:0.000000
+[2024.02.13-22.58.22:868][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.58.22:868][783]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.13-22.58.22:869][783]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-22.58.22:878][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-22.58.22:882][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-22.58.22:888][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-22.58.22:903][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-22.58.22:914][783]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.13-22.58.22:914][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.13-22.58.22:915][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.13-22.58.22:935][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.58.22:954][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.02.13-22.58.23:001][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:001][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:002][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:002][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:002][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:003][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:003][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:003][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:004][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:004][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:004][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:005][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:005][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:005][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:006][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:006][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:007][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.23:036][784]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.02.13-22.58.41:646][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-22.58.41:702][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2024.02.13-22.58.41:706][712]LogSavePackage: Moving output files for package: /Game/AI/BT_EnemyAI
+[2024.02.13-22.58.41:706][712]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BT_EnemyAI508DA0A9490BECE152550EAD78406D98.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/AI/BT_EnemyAI.uasset'
+[2024.02.13-22.58.41:711][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 909 ms)
+[2024.02.13-22.58.41:723][712]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2024.02.13-22.58.41:723][712]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2024.02.13-22.58.43:583][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.13-22.58.43:595][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.13-22.58.43:595][899]PIE: New page: PIE session: Sandbox (Feb 13, 2024, 12:58:43 PM)
+[2024.02.13-22.58.43:633][899]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.13-22.58.43:977][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.343514s)
+[2024.02.13-22.58.43:977][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.343590s)
+[2024.02.13-22.58.43:977][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-22.58.43:977][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-22.58.43:977][899]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.13-22.58.43:979][899]LogPlayLevel: PIE: World Init took: (0.002396s)
+[2024.02.13-22.58.43:992][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.13-22.58.43:995][899]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.02.13-22.58.43:995][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.13-22.58.43:995][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.13-22.58.43:995][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.13-22.58.43:995][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.13-22.58.43:995][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.13-22.58.43:995][899]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.13-22.58.43:995][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.13-22.58.43:995][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.13-22.58.43:996][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.13-22.58.43:996][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.13-22.58.43:996][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.13-22.58.43:998][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.13-22.58.44:051][899]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.13-22.58.44:051][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.13-22.58.44:051][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.13-22.58.44:051][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.13-22.58.44:053][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.02.13-22.58.44:053][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.02.13-22.58.44:055][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.02.13-22.58.44:055][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.02.13-22.58.44:055][899]LogInit: FAudioDevice initialized with ID 9.
+[2024.02.13-22.58.44:055][899]LogAudio: Display: Audio Device (ID: 9) registered with world 'Sandbox'.
+[2024.02.13-22.58.44:055][899]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.13-22.58.44:059][899]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2024.02.13-22.58.44:167][899]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.13-17.58.44
+[2024.02.13-22.58.44:189][899]LogWorld: Bringing up level for play took: 0.130308
+[2024.02.13-22.58.44:192][899]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.02.13-22.58.44:200][899]PIE: Server logged in
+[2024.02.13-22.58.44:201][899]PIE: Play in editor total start time 0.609 seconds.
+[2024.02.13-22.58.44:373][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:374][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:374][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:374][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:375][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:375][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:375][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:376][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:376][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:376][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:377][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:377][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:377][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:378][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:379][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:380][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:382][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.58.44:656][931]LogTemp: Warning: Health:90.000000
+[2024.02.13-22.58.45:668][ 47]LogTemp: Warning: Health:80.000000
+[2024.02.13-22.58.45:677][ 48]LogTemp: Warning: Health:70.000000
+[2024.02.13-22.58.53:587][966]LogTemp: Warning: Health:60.000000
+[2024.02.13-22.58.54:600][ 83]LogTemp: Warning: Health:50.000000
+[2024.02.13-22.58.54:609][ 84]LogTemp: Warning: Health:40.000000
+[2024.02.13-22.58.55:624][197]LogTemp: Warning: Health:30.000000
+[2024.02.13-22.58.55:631][198]LogTemp: Warning: Health:20.000000
+[2024.02.13-22.58.56:652][312]LogTemp: Warning: Health:10.000000
+[2024.02.13-22.58.56:660][313]LogTemp: Warning: Health:0.000000
+[2024.02.13-22.58.59:668][668]LogTemp: Warning: Health:0.000000
+[2024.02.13-22.58.59:885][694]LogTemp: Warning: Health:0.000000
+[2024.02.13-22.59.00:680][789]LogTemp: Warning: Health:0.000000
+[2024.02.13-22.59.00:687][790]LogTemp: Warning: Health:0.000000
+[2024.02.13-22.59.01:127][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.59.01:127][839]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.13-22.59.01:129][839]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.13-22.59.01:138][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-22.59.01:150][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.13-22.59.01:155][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.13-22.59.01:176][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.13-22.59.01:176][839]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.13-22.59.01:176][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.13-22.59.01:178][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.13-22.59.01:212][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.13-22.59.01:232][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.13-22.59.01:329][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:330][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:330][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:331][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:331][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:331][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:332][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:332][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:332][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:333][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:333][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:333][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:334][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:334][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:335][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:335][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:336][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.01:358][840]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.02.13-22.59.05:785][288]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.13-22.59.08:346][370]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.13-22.59.08:346][370]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2024.02.13-22.59.24:532][477]LogViewport: Scene viewport resized to 1455x939, mode Windowed.
+[2024.02.13-22.59.24:557][477]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.13-22.59.24:580][478]LogViewport: Scene viewport resized to 1455x923, mode Windowed.
+[2024.02.13-22.59.24:613][479]LogViewport: Scene viewport resized to 1455x905, mode Windowed.
+[2024.02.13-22.59.24:659][480]LogViewport: Scene viewport resized to 1455x902, mode Windowed.

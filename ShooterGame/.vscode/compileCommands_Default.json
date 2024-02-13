@@ -1,5 +1,37 @@
 [
 	{
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\BTService_PlayerLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\BTService_PlayerLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\BTService_UPDPlayerLocIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\BTService_UPDPlayerLocIfSeen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
 		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\BTTask_ClearBlackboardValue.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
@@ -9,6 +41,22 @@
 	},
 	{
 		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\BTTask_ClearBlackboardValue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\BTTask_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\BTTask_Shoot.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
 			"@Z:\\shooter-game-prototype\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
