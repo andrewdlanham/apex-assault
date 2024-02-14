@@ -16,6 +16,7 @@ class SHOOTERGAME_API AShooterAIController : public AAIController
 
 public:
 
+	bool IsDead() const;
 	virtual void Tick(float DeltaSeconds) override;
 	
 protected:
