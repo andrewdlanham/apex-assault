@@ -43,8 +43,11 @@ void AGun::PullTrigger()
 	FVector EndLocation = CameraLocation + CameraRotation.Vector() * MaxRange;
 
 	FHitResult HitOut;
+	FCollisionQueryParams Params;
+	Params.AddIgnoredActor(this);
+	Params.AddIgnoredActor(GetOwner());
 
-	GetWorld()->LineTraceSingleByChannel(HitOut, CameraLocation, EndLocation, ECC_GameTraceChannel1);
+	GetWorld()->LineTraceSingleByChannel(HitOut, CameraLocation, EndLocation, ECC_GameTraceChannel1, Params);
 
 	DrawDebugPoint(GetWorld(), HitOut.Location, 10, FColor::Red, true);
 
