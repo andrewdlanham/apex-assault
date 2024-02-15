@@ -1401,3 +1401,155 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.15-16.23.28:185][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 336 ms)
 [2024.02.15-16.23.28:192][816]AssetCheck: New page: Asset Save: A_ImpactEffect_Cue
 [2024.02.15-16.23.28:192][816]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/A_ImpactEffect_Cue.A_ImpactEffect_Cue
+[2024.02.15-16.25.15:386][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-16.25.15:436][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/A_ImpactEffect_Cue" FILE="../../../../shooter-game-prototype/ShooterGame/Content/SFX/A_ImpactEffect_Cue.uasset" SILENT=true
+[2024.02.15-16.25.15:438][ 31]LogSavePackage: Moving output files for package: /Game/SFX/A_ImpactEffect_Cue
+[2024.02.15-16.25.15:439][ 31]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/A_ImpactEffect_Cue669D65B840FB9A899282C7990D18A32E.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/SFX/A_ImpactEffect_Cue.uasset'
+[2024.02.15-16.25.15:447][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 398 ms)
+[2024.02.15-16.25.15:455][ 31]AssetCheck: New page: Asset Save: A_ImpactEffect_Cue
+[2024.02.15-16.25.15:455][ 31]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/A_ImpactEffect_Cue.A_ImpactEffect_Cue
+[2024.02.15-16.25.22:646][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-16.25.22:700][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/A_ImpactEffect_Cue" FILE="../../../../shooter-game-prototype/ShooterGame/Content/SFX/A_ImpactEffect_Cue.uasset" SILENT=true
+[2024.02.15-16.25.22:702][892]LogSavePackage: Moving output files for package: /Game/SFX/A_ImpactEffect_Cue
+[2024.02.15-16.25.22:702][892]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/A_ImpactEffect_CueD9B81A924083024FEE3085887AFAEC58.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/SFX/A_ImpactEffect_Cue.uasset'
+[2024.02.15-16.25.22:709][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 461 ms)
+[2024.02.15-16.25.22:716][892]AssetCheck: New page: Asset Save: A_ImpactEffect_Cue
+[2024.02.15-16.25.22:716][892]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/SFX/A_ImpactEffect_Cue.A_ImpactEffect_Cue
+[2024.02.15-16.25.37:509][802]LogViewport: Scene viewport resized to 1455x950, mode Windowed.
+[2024.02.15-16.25.37:528][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.25.37:536][803]LogViewport: Scene viewport resized to 1455x937, mode Windowed.
+[2024.02.15-16.25.37:574][804]LogViewport: Scene viewport resized to 1455x923, mode Windowed.
+[2024.02.15-16.25.37:614][805]LogViewport: Scene viewport resized to 1455x907, mode Windowed.
+[2024.02.15-16.25.37:653][806]LogViewport: Scene viewport resized to 1455x902, mode Windowed.
+[2024.02.15-16.25.43:203][332]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Rifle.BP_Rifle
+[2024.02.15-16.25.43:203][332]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-16.25.43:203][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-16.25.48:093][588]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-16.25.48:093][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-16.25.48:106][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Rifle.BP_Rifle
+[2024.02.15-16.25.48:107][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-16.25.48:107][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-16.26.48:183][726]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-16.26.48:183][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-16.26.48:213][726]LogViewport: Scene viewport resized to 1455x936, mode Windowed.
+[2024.02.15-16.26.48:246][727]LogViewport: Scene viewport resized to 1455x925, mode Windowed.
+[2024.02.15-16.26.48:306][728]LogViewport: Scene viewport resized to 1455x902, mode Windowed.
+[2024.02.15-16.26.49:538][847]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.15-16.26.55:377][396]LogLiveCoding: Display:    Creating library Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_0.lib and object Z:\shooter-game-prototype\ShooterGame\Binaries\Win64\UnrealEditor-ShooterGame.patch_0.exp
+[2024.02.15-16.26.55:605][403]LogClass: UPackage /Script/ShooterGame Reload.
+[2024.02.15-16.26.55:606][403]LogClass: UClass Gun Reload.
+[2024.02.15-16.26.55:606][403]LogClass: UClass ShooterPlayerController Reload.
+[2024.02.15-16.26.55:606][403]LogClass: Could not find existing class Gun in package /Script/ShooterGame for reload, assuming new or modified class
+[2024.02.15-16.26.55:613][403]LogClass: Could not find existing class ShooterPlayerController in package /Script/ShooterGame for reload, assuming new or modified class
+[2024.02.15-16.26.55:633][403]Re-instancing Gun after reload.
+[2024.02.15-16.26.55:690][403]Re-instancing ShooterPlayerController after reload.
+[2024.02.15-16.26.55:960][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.15-16.26.56:431][404]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes changed, 2 classes unchanged
+[2024.02.15-16.26.56:431][404]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.15-16.27.00:317][730]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Rifle.BP_Rifle
+[2024.02.15-16.27.00:322][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-16.27.00:322][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-16.27.10:357][894]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2024.02.15-16.27.32:085][777]LogSlate: Took 0.005015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.15-16.27.49:510][810]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave WhiteNoise...
+[2024.02.15-16.27.49:513][810]LogAudio: Display: Chunk size for SoundWave /Engine/EngineSounds/WhiteNoise.WhiteNoise: 262144
+[2024.02.15-16.27.54:712][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-16.27.54:790][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-16.27.54:812][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Rifle" FILE="../../../../shooter-game-prototype/ShooterGame/Content/BP_Rifle.uasset" SILENT=true
+[2024.02.15-16.27.54:819][398]LogSavePackage: Moving output files for package: /Game/BP_Rifle
+[2024.02.15-16.27.54:819][398]LogSavePackage: Moving '../../../../shooter-game-prototype/ShooterGame/Saved/BP_Rifle17E46B4B4EFE77583BEE118995F014ED.tmp' to '../../../../shooter-game-prototype/ShooterGame/Content/BP_Rifle.uasset'
+[2024.02.15-16.27.54:825][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 575 ms)
+[2024.02.15-16.27.54:836][398]AssetCheck: New page: Asset Save: BP_Rifle
+[2024.02.15-16.27.54:836][398]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Rifle.BP_Rifle
+[2024.02.15-16.27.57:469][641]BlueprintLog: New page: Compile BP_Rifle
+[2024.02.15-16.27.57:594][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.15-16.27.58:849][743]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-16.27.58:868][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-16.27.58:869][743]PIE: New page: PIE session: Sandbox (Feb 15, 2024, 6:27:58 AM)
+[2024.02.15-16.27.58:874][743]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.02.15-16.27.58:875][743]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.02.15-16.27.58:875][743]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2024.02.15-16.27.59:181][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.305824s)
+[2024.02.15-16.27.59:181][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.305866s)
+[2024.02.15-16.27.59:182][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-16.27.59:182][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-16.27.59:182][743]LogAIModule: Creating AISystem for world Sandbox
+[2024.02.15-16.27.59:184][743]LogPlayLevel: PIE: World Init took: (0.002968s)
+[2024.02.15-16.27.59:243][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.15-16.27.59:249][743]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.15-16.27.59:249][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-16.27.59:249][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-16.27.59:250][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-16.27.59:250][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-16.27.59:250][743]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.15-16.27.59:250][743]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-16.27.59:250][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.15-16.27.59:250][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-16.27.59:250][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-16.27.59:250][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-16.27.59:250][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-16.27.59:252][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-16.27.59:305][743]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.02.15-16.27.59:305][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-16.27.59:305][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-16.27.59:305][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-16.27.59:305][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.02.15-16.27.59:305][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.02.15-16.27.59:307][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.02.15-16.27.59:308][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.02.15-16.27.59:308][743]LogInit: FAudioDevice initialized with ID 2.
+[2024.02.15-16.27.59:308][743]LogAudio: Display: Audio Device (ID: 2) registered with world 'Sandbox'.
+[2024.02.15-16.27.59:308][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.15-16.27.59:314][743]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2024.02.15-16.27.59:413][743]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2024.02.15-11.27.59
+[2024.02.15-16.27.59:442][743]LogWorld: Bringing up level for play took: 0.128369
+[2024.02.15-16.27.59:444][743]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.02.15-16.27.59:466][743]PIE: Server logged in
+[2024.02.15-16.27.59:467][743]PIE: Play in editor total start time 0.602 seconds.
+[2024.02.15-16.27.59:650][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:650][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:651][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:652][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:652][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:652][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:653][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:653][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:654][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:654][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:655][744]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.27.59:859][762]LogTemp: Warning: Health:90.000000
+[2024.02.15-16.27.59:962][764]LogShaderCompilers: Display: ================================================
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: Total job queries 210, among them cache hits 10 (4.76%)
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: Tracking 200 distinct input hashes that result in 160 distinct outputs (80.00%)
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: RAM used: 4.48 MiB of 819.20 MiB budget. Usage: 0.55%
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.15-16.27.59:963][764]LogShaderCompilers: Display: ================================================
+[2024.02.15-16.28.00:080][765]LogTemp: Warning: Health:80.000000
+[2024.02.15-16.28.06:173][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-16.28.06:173][224]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2024.02.15-16.28.06:175][224]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-16.28.06:184][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-16.28.06:190][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-16.28.06:198][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-16.28.06:233][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-16.28.06:234][224]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.15-16.28.06:235][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.15-16.28.06:236][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.15-16.28.06:240][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-16.28.06:262][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.15-16.28.06:318][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:319][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:319][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:319][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:320][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:320][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:320][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:321][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:321][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:321][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:323][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-16.28.06:344][225]LogPlayLevel: Display: Destroying online subsystem :Context_16
