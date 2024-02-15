@@ -52,4 +52,5 @@ private:
 
 	UPROPERTY(VisibleAnywhere)
 	float Health;
+
 };

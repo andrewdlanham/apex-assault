@@ -30,4 +30,13 @@ private:
 	float RestartDelay = 5.0f;
 
 	FTimerHandle RestartTimer;
+
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<class UUserWidget> HUDClass;
+
+	UPROPERTY()
+	UUserWidget* HUD;
+
+protected:
+	virtual void BeginPlay() override;
 };

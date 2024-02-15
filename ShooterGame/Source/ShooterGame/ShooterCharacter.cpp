@@ -6,6 +6,7 @@
 #include "Components/CapsuleComponent.h"
 #include "ShooterGameGameModeBase.h"
 
+
 // Sets default values
 AShooterCharacter::AShooterCharacter()
 {
@@ -18,6 +19,8 @@ AShooterCharacter::AShooterCharacter()
 void AShooterCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+
+	
 
 	// Set health
 	Health = MaxHealth;
