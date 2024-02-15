@@ -7,6 +7,7 @@
         "Includes": [
             "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootergame\\definitions.shootergame.h",
             "z:\\shooter-game-prototype\\shootergame\\source\\shootergame\\shooterplayercontroller.h",
+            "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\unrealeditor\\inc\\shootergame\\uht\\shooterplayercontroller.generated.h",
             "z:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\blueprint\\userwidget.h",
             "z:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsavecontext.h",
             "z:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
@@ -40,8 +41,7 @@
             "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\propertypath\\uht\\propertypathhelpers.generated.h",
             "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\dynamicpropertypath.generated.h",
             "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetblueprintgeneratedclass.generated.h",
-            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\userwidget.generated.h",
-            "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\unrealeditor\\inc\\shootergame\\uht\\shooterplayercontroller.generated.h"
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\userwidget.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

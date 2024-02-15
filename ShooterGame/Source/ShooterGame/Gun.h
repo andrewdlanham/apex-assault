@@ -49,7 +49,7 @@ private:
 	float MaxRange = 1000;
 
 	UPROPERTY(EditAnywhere)
-	float Damage = 10;
+	float Damage = 50.0;
 
 	bool GunTrace(FHitResult& Hit, FVector& ShotDirection);
 
