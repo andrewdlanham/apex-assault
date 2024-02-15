@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\shooter-game-prototype\\shootergame\\source\\shootergame\\gun.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\x64\\shootergameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootergame\\definitions.shootergame.h",
+            "z:\\shooter-game-prototype\\shootergame\\source\\shootergame\\gun.h",
+            "z:\\shooter-game-prototype\\shootergame\\intermediate\\build\\win64\\unrealeditor\\inc\\shootergame\\uht\\gun.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\damageevents.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\damageevents.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
