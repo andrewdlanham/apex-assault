@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
-		"Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGame.Target.cs",
-		"Z:\\shooter-game-prototype\\ShooterGame\\Source\\ShooterGameEditor.Target.cs"
-	],
-	"EngineVersion": "5.2.1"
-}
