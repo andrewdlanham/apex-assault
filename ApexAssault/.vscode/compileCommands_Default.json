@@ -1,0 +1,186 @@
+[
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\BTService_PlayerLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\BTService_PlayerLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\BTService_UPDPlayerLocIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\BTService_UPDPlayerLocIfSeen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\BTTask_ClearBlackboardValue.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\BTTask_ClearBlackboardValue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\BTTask_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\BTTask_Shoot.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\Gun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\Gun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\KillEmAllGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\KillEmAllGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterGameGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterGameGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\apex-assault\\ShooterGame\\Source\\ShooterGame\\ShooterPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default\\ShooterGame.262.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	}
+]
