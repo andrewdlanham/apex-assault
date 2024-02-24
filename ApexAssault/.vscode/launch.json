@@ -4,7 +4,7 @@
 		{
 			"name": "Launch ShooterGame (Debug)",
 			"request": "launch",
-			"program": "Z:\\apex-assault\\ShooterGame\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "Z:\\apex-assault\\ApexAssault\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "ShooterGame Win64 Debug Build",
 			"args": [
 			],
@@ -20,7 +20,7 @@
 		{
 			"name": "Launch ShooterGame (DebugGame)",
 			"request": "launch",
-			"program": "Z:\\apex-assault\\ShooterGame\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "Z:\\apex-assault\\ApexAssault\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "ShooterGame Win64 DebugGame Build",
 			"args": [
 			],
@@ -36,7 +36,7 @@
 		{
 			"name": "Launch ShooterGame (Development)",
 			"request": "launch",
-			"program": "Z:\\apex-assault\\ShooterGame\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "Z:\\apex-assault\\ApexAssault\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "ShooterGame Win64 Development Build",
 			"args": [
 			],
@@ -52,7 +52,7 @@
 		{
 			"name": "Launch ShooterGame (Test)",
 			"request": "launch",
-			"program": "Z:\\apex-assault\\ShooterGame\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "Z:\\apex-assault\\ApexAssault\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "ShooterGame Win64 Test Build",
 			"args": [
 			],
@@ -68,7 +68,7 @@
 		{
 			"name": "Launch ShooterGame (Shipping)",
 			"request": "launch",
-			"program": "Z:\\apex-assault\\ShooterGame\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "Z:\\apex-assault\\ApexAssault\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "ShooterGame Win64 Shipping Build",
 			"args": [
 			],
@@ -87,7 +87,7 @@
 			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "ShooterGameEditor Win64 Debug Build",
 			"args": [
-				"Z:\\apex-assault\\ShooterGame\\ShooterGame.uproject"
+				"Z:\\apex-assault\\ApexAssault\\ApexAssault.uproject"
 			],
 			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
@@ -104,7 +104,7 @@
 			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "ShooterGameEditor Win64 DebugGame Build",
 			"args": [
-				"Z:\\apex-assault\\ShooterGame\\ShooterGame.uproject"
+				"Z:\\apex-assault\\ApexAssault\\ApexAssault.uproject"
 			],
 			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
@@ -121,7 +121,7 @@
 			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "ShooterGameEditor Win64 Development Build",
 			"args": [
-				"Z:\\apex-assault\\ShooterGame\\ShooterGame.uproject"
+				"Z:\\apex-assault\\ApexAssault\\ApexAssault.uproject"
 			],
 			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
@@ -140,7 +140,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=Z:\\apex-assault\\ShooterGame\\ShooterGame.uproject",
+				"-project=Z:\\apex-assault\\ApexAssault\\ApexAssault.uproject",
 				"-game",
 				"-engine"
 			],

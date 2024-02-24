@@ -1,13 +1,13 @@
 {
     "configurations": [
         {
-            "name": "ShooterGameEditor Editor Win64 Development (ShooterGame)",
+            "name": "ShooterGameEditor Editor Win64 Development (ApexAssault)",
             "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
             "configurationProvider": "epic.ue",
-            "compileCommands": "Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_ShooterGame.json"
+            "compileCommands": "Z:\\apex-assault\\ApexAssault\\.vscode\\compileCommands_ApexAssault.json"
         },
         {
             "name": "Win32",
@@ -16,7 +16,7 @@
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
             "configurationProvider": "epic.ue",
-            "compileCommands": "Z:\\apex-assault\\ShooterGame\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "Z:\\apex-assault\\ApexAssault\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4
